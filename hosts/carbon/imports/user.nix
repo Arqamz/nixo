@@ -146,6 +146,10 @@ in
         wl-clipboard
 
 	onefetch
+
+	swayimg
+	graphviz
+	image-roll
         
         # GTK+ widget for source code editing
         gtksourceview
