@@ -1,5 +1,5 @@
 {
-  # https://github.com/arqamz/nixium
+  # https://github.com/arqamz/nixo
   description = "The heart of my attempt at NixOS";
 
   outputs = {...} @ inputs: 
