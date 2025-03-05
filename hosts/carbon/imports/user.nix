@@ -112,6 +112,13 @@ in
         tmux
         # Lines of code
         tokei
+	
+	s-tui
+	presenterm
+	oha
+	nap	
+	otree
+	
 
         # Watch changes and run commands
         watchexec
